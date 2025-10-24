@@ -1,0 +1,5 @@
+{
+  "name": "AI Post Generator",
+  "description": "An AI-powered application that generates social media posts for LinkedIn, Twitter (X), and Instagram from a single topic. It creates platform-optimized text content with hashtags and a relevant image, automating content creation for marketers and creators.",
+  "requestFramePermissions": []
+}
