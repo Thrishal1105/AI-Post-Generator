@@ -33,8 +33,8 @@
 <div align="center">
   <h3>Sample Generated Posts</h3>
   <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <img src="post1.png" alt="Generated Post Example 1" width="300" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);"/>
-    <img src="post2.png" alt="Generated Post Example 2" width="300" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);"/>
+    <img src="post1.png" alt="Generated Post Example 1" width="500" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);"/>
+    <img src="post2.png" alt="Generated Post Example 2" width="500" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);"/>
   </div>
 </div>
 
@@ -131,11 +131,6 @@ npm run preview
 
 ## 🌟 Features in Detail
 
-### **Smart Content Generation**
-- Analyzes your topic and creates platform-specific content
-- Automatically includes relevant hashtags and emojis
-- Maintains consistent tone across all platforms
-- Optimizes for engagement and reach
 
 ### **Advanced Image Generation**
 - Uses Google's Imagen 4.0 for high-quality visuals
@@ -159,17 +154,3 @@ npm run preview
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Support
-
-If you encounter any issues or have questions, please open an issue on GitHub.
-
----
-
-<div align="center">
-  <p><strong>Made with ❤️ using Google Gemini AI</strong></p>
-  <p>Transform your ideas into engaging social media content in seconds!</p>
-</div>
